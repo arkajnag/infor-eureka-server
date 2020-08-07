@@ -6,4 +6,4 @@ Microservice to handle Service Discovery.
 - By default, this is hosted in port: 8761.
 
 Endpoints being exposed are:
-[Eureka Server: http://localhost:8761/]
+Eureka Server: http://localhost:8761/
